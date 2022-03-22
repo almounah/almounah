@@ -2,7 +2,6 @@
 
 
 
-
 <details open>
  <summary> ✇ <b>My Github Stats</b>: </summary>
 <br>
