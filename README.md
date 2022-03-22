@@ -1,12 +1,5 @@
 ### Hello 👋
 
-This is my new github. From now on, I will be uploading all my projects here. 
-Sadly before, I was using the private gitlab of my engineering school 😭.
-I learnt my lesson and I will start using Github from now on.
-
-
-
-
 
 
 
