@@ -5,7 +5,7 @@
 
 
 
-**About Me! <img src="luffy-one.gif" width="20" />**
+**About Me! <img src="luffy-one.gif" width="30" />**
 - 🌱 I’m currently a student at Grenoble-INP ENSIMAG
 - 🛡️ I am passioned by cybersecurity
 - 🔭 I’m currently learning advanced cryptography
