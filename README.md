@@ -1,7 +1,7 @@
 <h2> Hello <img src="hi.gif" width=25>, I'm Haroun</h2>
 
 <br />
-<img src="rudy.gif" align='right' width="40%" />
+<img src="rudy.gif" alt="GIF" align='right' width="400" />
 
 
 
@@ -17,7 +17,7 @@
 
 
 **🧙‍♂️ How to reach me:**
-- Check my personal website <a href="https://almounah.github.io/haroun-al-mounayar-website/index.html">here </a>
+- Check my personal website  <a href="https://almounah.github.io/haroun-al-mounayar-website/index.html">here </a> <img src="cool.gif" width=25>
 
 <details open>
  <summary> ✇ <b>My Github Stats</b> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">: </summary>
